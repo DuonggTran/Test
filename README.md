@@ -3,9 +3,9 @@
 Tourism Data Analytics Platform là một nền tảng phân tích dữ liệu du lịch toàn diện, được xây dựng theo kiến trúc Lakehouse hiện đại. Dự án tập trung vào việc thu thập, xử lý và phân tích dữ liệu từ nhiều nguồn (Booking.com, TikTok) để cung cấp insights về xu hướng du lịch và dự báo mức độ "hot" của các tỉnh thành Việt Nam.
 ## Architecture
 
-```
+
 <img width="1386" height="692" alt="image" src="https://github.com/user-attachments/assets/188de12f-5e62-4d43-bd48-3da7216fb721" />
-```
+
 
 ### Medallion Architecture
 
